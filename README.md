@@ -1,10 +1,10 @@
 ### Hello World :)
 
-- I’m currently studying on Universidade Federal Fluminense
-- Studendt of Telecommunications Engeneering
-- I’m currently learning (by my self) the Flutter framework
-- My pronouns are ela/dela
-- A fun fact about me is that I start the college with 17 ;)
+- I’m currently studying on Universidade Federal Fluminense;
+- Studendt of Telecommunications Engeneering;
+- I’m currently learning (by my self) the Flutter framework and python, C and Java in college;
+- My pronouns are ela/dela;
+- A fun fact about me is that I'm obssesed with dogs.
 
 <div align="center">
   <a href="https://github.com/araujonatali4">
